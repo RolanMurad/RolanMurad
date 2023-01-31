@@ -33,7 +33,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Ophtolmology Center</h3>
+      <h3 align="center">Ophtolmology Center 🚑</h3>
       <br />
       <a target="_blank" href="https://rolanmurad.github.io/Ophthalmology-Clinic/">
         <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/Ophtolmology%20Center.png" width="100%"
@@ -58,7 +58,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
           alt="gulp">
       </p>
       <p align="left">
-        <strong> IDE used </strong>
+        <strong> IDE used 💻 </strong>
         <br />
         <img
           src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
@@ -77,7 +77,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Coffe House</h3>
+      <h3 align="center">Coffe House ☕</h3>
       <br />
       <a target="_blank" href="https://rolanmurad.github.io/Coffe-House/">
         <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/Coffe-House.png" width="100%"
@@ -104,7 +104,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
           alt="JQUERY">
       </p>
       <p align="left">
-        <strong> IDE used </strong>
+        <strong> IDE used 💻 </strong>
         <br/>
         <img
           src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
