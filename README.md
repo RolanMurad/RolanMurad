@@ -59,7 +59,8 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
       </p>
       <p align="left">
         <strong> IDE used 💻 </strong>
-        <br />
+        <br/>
+       <br>
         <img
           src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
       </p>
@@ -106,6 +107,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
       <p align="left">
         <strong> IDE used 💻 </strong>
         <br/>
+          <br>
         <img
           src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
       </p>
@@ -122,3 +124,14 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
     </td>
   </tr>
 </table>
+
+---- 
+
+<h3 align="center" style="font-weight:bold; font-size:24px">You can contact me 🤙 </h3> 
+ <br>
+ 
+ **E-mail:** **rolanmuraddeveloper@gmail.com** ✉️
+  <br>
+ **Telegram:** **@Rolan_Murad** 💻
+
+
