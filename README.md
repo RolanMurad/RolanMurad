@@ -1,5 +1,6 @@
-### **Hello, all.** :v:
-I am 24 years old, a **web developer** from Ukraine, currently living in Germany. I am very passionate about web development and have more than a **year of experience**. I can write **clean, scalable and testable code** that is easy to maintain and extend. In my work I use preprocessors and task manager. It always gives me great pleasure to turn **ideas into reality.**
+ <h3 align="center" style="font-weight:bold; font-size:24px">Hello, all. I'm  Rolan Murad :v: </h3>
+
+I'm 24 years old, a **web developer** from Ukraine, currently living in Germany. I am very passionate about web development and have more than a **year of experience**. I can write **clean, scalable and testable code** that is easy to maintain and extend. In my work I use preprocessors and task manager. It always gives me great pleasure to turn **ideas into reality.**
 
 <h3 align="center" style="font-weight:bold; font-size:24px">In my projects I follow these rules :</h3>
 
@@ -24,6 +25,8 @@ I am 24 years old, a **web developer** from Ukraine, currently living in Germany
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 
 ---- 
 <h3 align="center" style="font-weight:bold; font-size:24px">Examples of my work 👇</h3>
