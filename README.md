@@ -25,7 +25,6 @@ I am 24 years old, a **web developer** from Ukraine, currently living in Germany
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-![GIF]()
 ---- 
 <h3 align="center" style="font-weight:bold; font-size:24px">Examples of my work 👇</h3>
 
