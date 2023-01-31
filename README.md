@@ -30,4 +30,48 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
 
 ---- 
 <h3 align="center" style="font-weight:bold; font-size:24px">Examples of my work 👇</h3>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Ophtolmology Center</h3>
+      <br />
+      <a target="_blank" href="https://rolanmurad.github.io/Ophthalmology-Clinic/">
+        <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/Ophtolmology%20Center.png" width="100%"
+          alt="Ophtolmology Center WebSite" />
+      </a>
+      <br />
+      <p><strong>A multi-page adaptive website for an ophthalmology center.</strong></p>
+      <p align="left">
+        <strong> Technologies used </strong>
+        <br />
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
+          alt="html">
+          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Coffe House</h3>
+      <br/>
+      <a target="_blank" href="https://rolanmurad.github.io/Coffe-House/">
+        <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/Coffe-House.png" width="100%"
+          alt="Responsive and animated website for the coffee shop" />
+      </a>
+      <br/>
+      <p><strong></strong></p>
+      <p align="left">
+        <strong> Technologies used </strong>
+        <br/>
+        <br>
+        <img src="https://img.shields.io/badge/GreenSock-88CE02.svg?style=for-the-badge&logo=GreenSock&logoColor=white"
+          alt="GSAP">
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
