@@ -8,7 +8,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
 * **BEM Methodology** for class names in HTML and CSS. 👨🏻‍💻
 * **Valid** and **Semantic** supported code (W3C). :white_check_mark:
 * **Pixel Perfect method**. :white_check_mark:
-* **Cross Browser Compatibility** (Firefox, Chrome, Opera, Safari, Yandex Browser, Microsoft Edge...). :white_check_mark:
+* **Cross Browser Compatibility** (Firefox, Chrome, Opera, Safari, Yandex Browser, Microsoft Edge...). ♻️
 * **WEB** images format. :white_check_mark:
 ---- 
 <h3 align="center" style="font-weight:bold; font-size:24px">Languages and Skills 🛠</h3>
