@@ -33,7 +33,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Ophtolmology Center 🚑</h3>
+      <h3 align="center">Ophthalmology Center 🚑</h3>
       <br />
       <a target="_blank" href="https://rolanmurad.github.io/Ophthalmology-Clinic/">
         <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/Ophtolmology%20Center.png" width="100%"
