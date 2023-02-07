@@ -80,7 +80,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
     <td width="50%" valign="top">
       <h3 align="center">Coffe House ☕</h3>
       <br />
-      <a target="_blank" href="https://rolanmurad.github.io/Coffe-House/">
+      <a target="_blank" href="https://rolanmurad.github.io/Coffee-House/">
         <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/Coffe-House.png" width="100%"
           alt="Responsive and animated website for the coffee shop" />
       </a>
