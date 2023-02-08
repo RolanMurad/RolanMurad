@@ -4,11 +4,11 @@ I'm 24 years old, a **web developer** from Ukraine, and currently living in Germ
 
 <h3 align="center" style="font-weight:bold; font-size:24px">In my projects I follow these rules :</h3>
 
-* **Adaptability** and **responsiveness** of web sites up to **280px**. 📱
+* **Adaptability** and **responsiveness** of websites up to **280px**. 📱
 * **BEM Methodology** for class names in HTML and CSS. 👨🏻‍💻
 * **Valid** and **Semantic** supported code (W3C). :white_check_mark:
 * **Pixel Perfect method**. 🖥
-* **Cross Browser Compatibility** (Firefox, Chrome, Opera, Safari, Yandex Browser, Microsoft Edge...). ♻️
+* **Cross-Browser Compatibility** (Firefox, Chrome, Opera, Safari, Yandex Browser, Microsoft Edge...). ♻️
 * **WebP format**. 🎆
 ---- 
 <h3 align="center" style="font-weight:bold; font-size:24px">Languages and Skills 🛠</h3>
