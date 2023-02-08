@@ -125,7 +125,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">People Enable</h3>
+      <h3 align="center">People Enable 🤸🏻</h3>
       <br />
       <a target="_blank" href="https://rolanmurad.github.io/People-Enable/">
         <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/People-Enable.png" width="100%"
