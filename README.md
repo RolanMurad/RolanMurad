@@ -172,7 +172,7 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
 
 ---- 
 
-<h3 align="center" style="font-weight:bold; font-size:24px">You can contact me 🤙 </h3> 
+<h3 align="center" style="font-weight:bold; font-size:24px">How to reach me 🤙 </h3> 
  <br>
  
  **E-mail:** **rolanmuraddeveloper@gmail.com** ✉️
