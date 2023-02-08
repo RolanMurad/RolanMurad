@@ -123,6 +123,51 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">People Enable</h3>
+      <br />
+      <a target="_blank" href="https://rolanmurad.github.io/People-Enable/">
+        <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/People-Enable.png" width="100%"
+          alt="Responsive and adaptive website"/>
+      </a>
+      <br />
+      <p><strong>Responsive and adaptive website of excursions and developmental circles for children and adults in the UAE.</strong></p>
+      <p align="left">
+        <strong> Technologies used ⚙️ </strong>
+        <br />
+        <br>
+        <img
+          src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
+          alt="JS">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
+          alt="HTML">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+        <img src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"
+          alt="GALP">
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+          alt="JQUERY">
+      </p>
+      <p align="left">
+        <strong> IDE used 💻 </strong>
+        <br/>
+          <br>
+        <img
+          src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/RolanMurad/People-Enable" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
+        </a>
+        <a href="https://rolanmurad.github.io/People-Enable/" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---- 
@@ -135,3 +180,4 @@ I'm 24 years old, a **web developer** from Ukraine, currently living in Germany.
  **Telegram:** **@Rolan_Murad** 💻
 
 
+****
