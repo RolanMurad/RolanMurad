@@ -1,6 +1,6 @@
  <h3 align="center" style="font-weight:bold; font-size:24px">Hello, all. I'm  Rolan Murad :v:</h3>
 
-I'm 24 years old, a **web developer** from Ukraine, currently living in Germany. I am very passionate about web development and have more than a **year of experience**. I can write **clean, scalable and testable code** that is easy to maintain and extend. In my work I use preprocessors and task manager. It always gives me great pleasure to turn **ideas into reality.**
+I'm 24 years old, a **web developer** from Ukraine, and currently living in Germany. I am very passionate about web development. I can **write clean, scalable, and testable code** that is easy to maintain and extend. In my work, I use **preprocessors and task managers**. It always gives me great pleasure to **turn ideas into reality**.
 
 <h3 align="center" style="font-weight:bold; font-size:24px">In my projects I follow these rules :</h3>
 
