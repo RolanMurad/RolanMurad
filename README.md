@@ -128,7 +128,7 @@ I'm 24 years old, a **web developer** from Ukraine, and currently living in Germ
   </tr>
          <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DustLand 💀</h3>
+      <h3 align="center">DustLand 🎮</h3>
       <br />
       <a target="_blank" href="https://rolanmurad.github.io/Dust-Land/">
         <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/DustLand.png" width="100%"
