@@ -81,51 +81,6 @@ I'm 24 years old, a **web developer** from Ukraine, and currently living in Germ
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DustLand 💀</h3>
-      <br />
-      <a target="_blank" href="https://rolanmurad.github.io/Dust-Land/">
-        <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/DustLand.png" width="100%"
-          alt="DustLand Game WebSite" />
-      </a>
-      <br />
-      <p><strong>Responsive website for third-person looter-shooter.</strong></p>
-      <p align="left">
-        <strong> Technologies used ⚙️</strong>
-        <br />
-        <br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
-          alt="html">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
-          alt="jquery">
-        <img
-          src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
-          alt="js">
-        <img src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"
-          alt="gulp">
-      </p>
-      <p align="left">
-        <strong> IDE used 💻 </strong>
-        <br/>
-       <br>
-        <img
-          src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
-      </p>
-      <p align="center">
-        <a href="https://github.com/RolanMurad/Dust-Land" target="_blank">
-          <img
-            src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
-        </a>
-        <a href="https://rolanmurad.github.io/Dust-Land/" target="_blank">
-          <img
-            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">Coffe House ☕</h3>
       <br />
       <a target="_blank" href="https://rolanmurad.github.io/Coffee-House/">
@@ -171,6 +126,51 @@ I'm 24 years old, a **web developer** from Ukraine, and currently living in Germ
       </p>
     </td>
   </tr>
+         <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">DustLand 💀</h3>
+      <br />
+      <a target="_blank" href="https://rolanmurad.github.io/Dust-Land/">
+        <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/DustLand.png" width="100%"
+          alt="DustLand Game WebSite" />
+      </a>
+      <br />
+      <p><strong>Responsive website for third-person looter-shooter.</strong></p>
+      <p align="left">
+        <strong> Technologies used ⚙️</strong>
+        <br />
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
+          alt="html">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+          alt="jquery">
+        <img
+          src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
+          alt="js">
+        <img src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"
+          alt="gulp">
+      </p>
+      <p align="left">
+        <strong> IDE used 💻 </strong>
+        <br/>
+       <br>
+        <img
+          src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/RolanMurad/Dust-Land" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
+        </a>
+        <a href="https://rolanmurad.github.io/Dust-Land/" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white" />
+        </a>
+      </p>
+    </td>
+  </tr>                                                                                                                                 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">People Enable 🤸🏻</h3>
