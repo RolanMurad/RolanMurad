@@ -28,7 +28,7 @@ I'm 24 years old, a **web developer** from Ukraine, and currently living in Germ
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 
-<h3 align="center">Tools:</h3>
+<h3 align="center" style="font-weight:bold; font-size:24px>Tools:</h3>
 <p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 ---- 
@@ -73,6 +73,51 @@ I'm 24 years old, a **web developer** from Ukraine, and currently living in Germ
             src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
         </a>
         <a href="https://rolanmurad.github.io/Ophthalmology-Clinic/" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">DustLand 💀</h3>
+      <br />
+      <a target="_blank" href="https://rolanmurad.github.io/Dust-Land/">
+        <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/DustLand.png" width="100%"
+          alt="DustLand Game WebSite" />
+      </a>
+      <br />
+      <p><strong>Responsive website for third-person looter-shooter.</strong></p>
+      <p align="left">
+        <strong> Technologies used ⚙️</strong>
+        <br />
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
+          alt="html">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+          alt="jquery">
+        <img
+          src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
+          alt="js">
+        <img src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"
+          alt="gulp">
+      </p>
+      <p align="left">
+        <strong> IDE used 💻 </strong>
+        <br/>
+       <br>
+        <img
+          src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/RolanMurad/Dust-Land" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
+        </a>
+        <a href="https://rolanmurad.github.io/Dust-Land/" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white" />
         </a>
