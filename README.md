@@ -170,7 +170,7 @@ I'm 24 years old, a **web developer** from Ukraine, and currently living in Germ
         </a>
       </p>
     </td>
-  </tr>                                                                                                                                 
+  <tr>                                                                                                                                 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">People Enable 🤸🏻</h3>
@@ -210,6 +210,45 @@ I'm 24 years old, a **web developer** from Ukraine, and currently living in Germ
             src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
         </a>
         <a href="https://rolanmurad.github.io/People-Enable/" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">MultiTech 👨‍💻</h3>
+      <br />
+      <a target="_blank" href="https://rolanmurad.github.io/MultiTech/">
+        <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/MultiTech-mainscreen.png" width="100%"
+          alt="MultiTech image"/>
+      </a>
+      <br />
+      <p><strong>Responsive website for a company that creates digital products (Tailwind CSS).</strong></p>
+      <p align="left">
+        <strong> Technologies used ⚙️ </strong>
+        <br />
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
+          alt="HTML">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
+          alt="JS">
+      </p>
+      <p align="left">
+        <strong> IDE used 💻 </strong>
+        <br/>
+          <br>
+        <img
+          src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/RolanMurad/MultiTech" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
+        </a>
+        <a href="https://rolanmurad.github.io/MultiTech/" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white" />
         </a>
