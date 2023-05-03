@@ -289,7 +289,7 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
             alt="HTML">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
             alt="JS">
-           <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fbootstrap5%3Fl%3Dhtml&psig=AOvVaw3G9HypFY4G-      chkpzeyvY2q&ust=1683198473191000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjRt4qB2f4CFQAAAAAdAAAAABAJ"
+           <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
             alt="JS">
         </p>
         <p align="left">
