@@ -275,7 +275,7 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
       <td width="50%" valign="top">
         <h3 align="center">Master John</h3>
         <br />
-        <a target="_blank" href="https://rolanmurad.github.io/MultiTech/">
+        <a target="_blank" href="https://rolanmurad.github.io/Master-John/">
           <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/Master-John.png" width="100%"
             alt="Master-John image" />
         </a>
@@ -301,8 +301,7 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
         </p>
         <p align="center">
           <a href="https://github.com/RolanMurad/Master-John" target="_blank">
-            <img
-              src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
+            <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
           </a>
           <a href="https://rolanmurad.github.io/Master-John/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
