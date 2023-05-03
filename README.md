@@ -50,7 +50,7 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
       <td width="50%" valign="top">
         <h3 align="center">Ophthalmology Center 🚑</h3>
         <br />
-        <a target="_blank" href="https://rolanmurad.github.io/Ophthalmology-Clinic/">
+        <a target="_blank" href="https://rolanmurad.github.io/Ophthalmology-Center/">
           <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/Ophtolmology%20Center.png" width="100%"
             alt="Ophtolmology Center WebSite" />
         </a>
