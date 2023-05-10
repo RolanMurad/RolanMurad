@@ -309,6 +309,43 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Simple To-Do List</h3>
+        <br />
+        <a target="_blank" href="https://rolanmurad.github.io/To-Do-List/">
+          <img src="https://github.com/RolanMurad/RolanMurad/blob/main/img/todo.png" width="100%"
+            alt="To-Do Image" />
+        </a>
+        <br />
+        <p><strong>All you need is simple To-Do List. Perfect for your daily tasks. (Vanilla JS)</strong></p>
+        <p align="left">
+          <strong> Technologies used ⚙️ </strong>
+          <br />
+          <br>
+          <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
+            alt="HTML">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
+            alt="JS">
+        </p>
+        <p align="left">
+          <strong> IDE used 💻 </strong>
+          <br />
+          <br>
+          <img
+            src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+        </p>
+        <p align="center">
+          <a href="https://github.com/RolanMurad/To-Do-List" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white" />
+          </a>
+          <a href="https://rolanmurad.github.io/To-Do-List/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+          </a>
+        </p>
+      </td>
+    </tr>
   </table>
 
   ----
